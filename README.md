@@ -1,4 +1,4 @@
-# E-commerce Customer Churn Prediction-
+# E-commerce Customer Churn Prediction
 
 dataset : https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
 
