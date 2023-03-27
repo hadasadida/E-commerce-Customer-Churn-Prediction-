@@ -1,6 +1,6 @@
 # E-commerce Customer Churn Prediction
 
-dataset : https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
+<a href="https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction">Dataset</a>
 
 Created by :
 1. Jasmine Alya Nisa
@@ -12,7 +12,7 @@ Created by :
 7. Laurensius Rio Wiratama
 8. Steven Zalukhu
 
-(This project is reupload and revised from original source (https://github.com/Rocket3FPRakamin/Rocket-3-FP))
+(This project is reupload and revised from original source (<a href="https://github.com/Rocket3FPRakamin/Rocket-3-FP">Original Source</a>))
 
 _________________________________________________________________________________________________________________________________________________________________________
 
